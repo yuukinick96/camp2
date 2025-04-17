@@ -1,0 +1,32 @@
+body{
+	background: #2CD330;
+	text-align: center;
+	height: 100vh;
+	display : flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+
+img{
+	max-width: 75%;
+	height: 100%;
+	margin: auto;
+
+}
+
+ul{
+	list-style-type: none;
+}
+
+li{
+	background: #54F358;
+	padding: 10px;
+	margin: 10px 0;
+
+}
+
+li:hover{
+	background: #96F299;
+}
+
